@@ -99,19 +99,6 @@ I'm open to:
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=[your-github-username].github-profile" alt="Visitor Badge" />
 </p>
-✅ What to do next:
-Replace:
 
-[Your Name]
-
-[your-email]
-
-[your-linkedin]
-
-[your-github-username]
-
-Add it to your GitHub Profile:
-
-Create a repo named exactly as your GitHub username
 
 
