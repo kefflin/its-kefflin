@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/[your-github-username]"><img src="https://img.shields.io/github/followers/[your-github-username]?style=social" /></a>
+  <a href="https://github.com/[kefa-gitonga]"><img src="https://img.shields.io/github/followers/[your-github-username]?style=social" /></a>
 </p>
 
 ---
@@ -53,8 +53,8 @@ I’m currently a **Software Engineering (DevOps) learner at ALX**, passionate a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kefflin &show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[kefflin]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[kefflin]&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
