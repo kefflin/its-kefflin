@@ -88,7 +88,7 @@ I'm open to:
 - Building community tech solutions  
 
 📩 Reach me: [gitongakefa3@gmail.com]  
-🔗 Connect: [LinkedIn](https://www.linkedin.com/in/[kefa-gitonga])  
+🔗 Connect: [LinkedIn][(https://www.linkedin.com/in/](https://www.linkedin.com/in/kefa-gitonga-448a98229/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BY5L5ZMa%2FTimo7ka8zharww%3D%3D)[kefa-gitonga])  
 
 ---
 
