@@ -87,8 +87,8 @@ I'm open to:
 - Open source collaboration  
 - Building community tech solutions  
 
-📩 Reach me: [your-email@example.com]  
-🔗 Connect: [LinkedIn](https://www.linkedin.com/in/[your-linkedin])  
+📩 Reach me: [gitongakefa3@gmail.com]  
+🔗 Connect: [LinkedIn](https://www.linkedin.com/in/[kefa-gitonga])  
 
 ---
 
@@ -97,7 +97,7 @@ I'm open to:
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[your-github-username].github-profile" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=[kefflin].github-profile" alt="Visitor Badge" />
 </p>
 
 
